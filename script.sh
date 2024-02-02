@@ -27,7 +27,7 @@ chmod 000 fol_2/2_2.txt
 
 touch README.md
 echo "# Week 2 Lab - Bash & Git" > README.md
-echo "Yago Taira x19238568" >> README.md
+echo "Yago Taira x19238568/n" >> README.md
 echo "[devops-lab2-test-script](https://github.com/YagoTaira/devops-lab2-script.git)" >> README.md
 echo "---" >> README.md
 echo "To run the script.sh run: \`bash script.sh\`" >> README.md
